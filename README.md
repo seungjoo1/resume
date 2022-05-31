@@ -36,3 +36,6 @@
 |문화컨텐츠와통일개론|통일관련문화|3|
 |웰빙스포츠론|건강과운동|2|
 |오디세이세미나2|소프트웨어기술|1|
+
+github address : [seungjoo1][github]
+[github]:https://github.com/seungjoo1

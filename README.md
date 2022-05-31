@@ -38,4 +38,5 @@
 |오디세이세미나2|소프트웨어기술|1|
 
 github address : [seungjoo1][github]
+
 [github]:https://github.com/seungjoo1
